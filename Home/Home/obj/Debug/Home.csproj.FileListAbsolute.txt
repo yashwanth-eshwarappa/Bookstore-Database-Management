@@ -1,0 +1,15 @@
+c:\users\hemanth\documents\visual studio 2015\Projects\Home\Home\bin\Debug\Home.exe.config
+c:\users\hemanth\documents\visual studio 2015\Projects\Home\Home\bin\Debug\Home.exe
+c:\users\hemanth\documents\visual studio 2015\Projects\Home\Home\bin\Debug\Home.pdb
+c:\users\hemanth\documents\visual studio 2015\Projects\Home\Home\obj\Debug\Home.csprojResolveAssemblyReference.cache
+c:\users\hemanth\documents\visual studio 2015\Projects\Home\Home\obj\Debug\Home.Form1.resources
+c:\users\hemanth\documents\visual studio 2015\Projects\Home\Home\obj\Debug\Home.Properties.Resources.resources
+c:\users\hemanth\documents\visual studio 2015\Projects\Home\Home\obj\Debug\Home.csproj.GenerateResource.Cache
+c:\users\hemanth\documents\visual studio 2015\Projects\Home\Home\obj\Debug\Home.exe
+c:\users\hemanth\documents\visual studio 2015\Projects\Home\Home\obj\Debug\Home.pdb
+c:\users\hemanth\documents\visual studio 2015\Projects\Home\Home\bin\Debug\MySql.Data.dll
+c:\users\hemanth\documents\visual studio 2015\Projects\Home\Home\bin\Debug\MySql.Data.xml
+C:\Users\Hemanth\Documents\Visual Studio 2015\Projects\Home\Home\obj\Debug\Home.login.resources
+C:\Users\Hemanth\Documents\Visual Studio 2015\Projects\Home\Home\obj\Debug\Home.Admin.resources
+C:\Users\Hemanth\Documents\Visual Studio 2015\Projects\Home\Home\obj\Debug\Home.browse.resources
+C:\Users\Hemanth\Documents\Visual Studio 2015\Projects\Home\Home\obj\Debug\Home.Update.resources
